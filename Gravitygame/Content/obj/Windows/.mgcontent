@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/atmosphere.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/planet.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/fonts/font1.spritefont</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/white.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/arrow.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/flame.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/fueltank.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/commandpod.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/engine.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/separator.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/plusbutton.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/minusbutton.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/fonts/Segoe_UI_15_Bold.spritefont</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/apoapsis.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/periapsis.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/Textures/redxbutton.png</File>
+  </SourceFiles>
+</SourceFileCollection>

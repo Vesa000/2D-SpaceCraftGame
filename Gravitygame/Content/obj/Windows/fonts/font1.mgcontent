@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/fonts/font1.spritefont</SourceFile>
+  <SourceTime>2016-12-11T15:03:24.5948983+02:00</SourceTime>
+  <DestFile>C:/Users/Vesa/Documents/Visual Studio 15/Projects/Gravitygame/Gravitygame/Content/bin/Windows/fonts/font1.xnb</DestFile>
+  <DestTime>2017-01-21T18:10:14.9089529+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T09:36:08+03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T09:36:08+03:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
